@@ -18,7 +18,7 @@ Analyzed ride-sharing industry data using **SQL, Excel, and Power BI**. Extracte
 ```
 📂 Uber-Data-Analytics-Project
 │── README.md  # Project documentation
-│── Data       # cleaned datasets
+│── Data       # datasets
 │── SQL        # SQL queries for data extraction and transformation
 │── PowerBI    # Power BI dashboard files
 ```
